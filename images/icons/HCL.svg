@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 454.93 65.56"
+   version="1.1"
+   id="svg3831"
+   sodipodi:docname="HCL_Commerce_whiteText.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3835">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>HCL_Commerce</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3833"
+     showgrid="false"
+     inkscape:zoom="3.8797178"
+     inkscape:cx="435.57768"
+     inkscape:cy="32.779999"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2-2" />
+  <defs
+     id="defs3795">
+    <style
+       id="style3775">.cls-1{fill:#4b4b4b;}.cls-2{fill:#1c1c1c;}.cls-3{fill:url(#New_Gradient_Swatch_5);}.cls-4{fill:url(#New_Gradient_Swatch_5-2);}.cls-5{fill:#8d8d8d;}</style>
+    <linearGradient
+       id="New_Gradient_Swatch_5"
+       y1="32.78"
+       x2="65.56"
+       y2="32.78"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.2"
+         stop-color="#652d90"
+         id="stop3777" />
+      <stop
+         offset="0.23"
+         stop-color="#732b88"
+         id="stop3779" />
+      <stop
+         offset="0.34"
+         stop-color="#982574"
+         id="stop3781" />
+      <stop
+         offset="0.45"
+         stop-color="#b62063"
+         id="stop3783" />
+      <stop
+         offset="0.57"
+         stop-color="#ce1d56"
+         id="stop3785" />
+      <stop
+         offset="0.69"
+         stop-color="#df1a4d"
+         id="stop3787" />
+      <stop
+         offset="0.83"
+         stop-color="#e91848"
+         id="stop3789" />
+      <stop
+         offset="1"
+         stop-color="#ec1846"
+         id="stop3791" />
+    </linearGradient>
+    <linearGradient
+       id="New_Gradient_Swatch_5-2"
+       x1="25.38"
+       y1="21.31"
+       x2="60.84"
+       y2="21.31"
+       xlink:href="#New_Gradient_Swatch_5" />
+  </defs>
+  <title
+     id="title3797">HCL_Commerce</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2">
+    <g
+       id="Layer_2-2"
+       data-name="Layer 2">
+      <path
+         class="cls-1"
+         d="M94.15,13.92h6.07V28.27h16.47V13.92h6.07V48.44h-6.07V33.89H100.22V48.44H94.15Z"
+         id="path3799"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M128.21,31.28v-.1A17.46,17.46,0,0,1,146,13.33a18,18,0,0,1,13.56,5.38l-3.9,4.49c-2.81-2.57-5.72-4.24-9.72-4.24-6.51,0-11.34,5.38-11.34,12.13v.1c0,6.76,4.78,12.23,11.39,12.23,4.24,0,7-1.68,9.91-4.44l3.9,3.95c-3.6,3.75-7.55,6.12-14,6.12C135.66,49,128.21,41.19,128.21,31.28Z"
+         id="path3801"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M163.92,13.92H170v29h18.15v5.52H163.92Z"
+         id="path3803"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M205.3,31.28v-.1a17.46,17.46,0,0,1,17.76-17.85,18,18,0,0,1,13.56,5.38l-3.9,4.49c-2.81-2.57-5.72-4.24-9.72-4.24-6.51,0-11.34,5.38-11.34,12.13v.1c0,6.76,4.78,12.23,11.39,12.23,4.24,0,7-1.68,9.91-4.44l3.9,3.95c-3.6,3.75-7.55,6.12-14,6.12C212.75,49,205.3,41.19,205.3,31.28Z"
+         id="path3805"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M238.57,35.57v-.1a13.89,13.89,0,0,1,27.77-.1v.1a13.62,13.62,0,0,1-14,13.56A13.47,13.47,0,0,1,238.57,35.57Zm21.8,0v-.1c0-4.59-3.3-8.38-8-8.38s-7.84,3.75-7.84,8.29v.1a8,8,0,0,0,7.94,8.34C257.31,43.81,260.37,40.06,260.37,35.57Z"
+         id="path3807"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M270.3,22.4h6v3.95c1.68-2.32,3.95-4.49,7.94-4.49a8.27,8.27,0,0,1,7.79,4.59,10.48,10.48,0,0,1,8.78-4.59c5.67,0,9.12,3.6,9.12,10V48.44h-6V33.65c0-4.14-1.92-6.36-5.28-6.36s-5.57,2.27-5.57,6.46v14.7h-6V33.6c0-4-2-6.31-5.28-6.31s-5.57,2.47-5.57,6.46v14.7h-6Z"
+         id="path3809"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M315.31,22.4h6v3.95c1.68-2.32,3.95-4.49,7.94-4.49a8.26,8.26,0,0,1,7.79,4.59,10.48,10.48,0,0,1,8.78-4.59c5.67,0,9.12,3.6,9.12,10V48.44h-6V33.65c0-4.14-1.92-6.36-5.28-6.36s-5.57,2.27-5.57,6.46v14.7h-6V33.6c0-4-2-6.31-5.28-6.31s-5.57,2.47-5.57,6.46v14.7h-6Z"
+         id="path3811"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M358.87,35.52v-.1c0-7.45,5.28-13.56,12.72-13.56,8.29,0,12.48,6.51,12.48,14,0,.54,0,1.09-.1,1.68H364.84a7.27,7.27,0,0,0,7.5,6.61A9.46,9.46,0,0,0,379.39,41l3.5,3.11A13.17,13.17,0,0,1,372.24,49C364.69,49,358.87,43.56,358.87,35.52Zm19.29-1.92c-.39-3.85-2.66-6.86-6.61-6.86-3.65,0-6.21,2.81-6.76,6.86Z"
+         id="path3813"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M388.08,22.4h6v5.87c1.63-3.9,4.64-6.56,9.22-6.36v6.31H403c-5.23,0-8.88,3.4-8.88,10.31v9.91h-6Z"
+         id="path3815"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M404.47,35.57v-.1A13.44,13.44,0,0,1,418,21.86a13.15,13.15,0,0,1,10.41,4.49l-3.75,4c-1.83-1.87-3.75-3.26-6.71-3.26-4.34,0-7.55,3.75-7.55,8.29v.1c0,4.64,3.21,8.34,7.79,8.34,2.81,0,4.83-1.28,6.76-3.21l3.6,3.55a13.65,13.65,0,0,1-24.12-8.58Z"
+         id="path3817"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M429.73,35.52v-.1c0-7.45,5.28-13.56,12.72-13.56,8.29,0,12.48,6.51,12.48,14,0,.54,0,1.09-.1,1.68H435.7a7.27,7.27,0,0,0,7.5,6.61A9.46,9.46,0,0,0,450.25,41l3.5,3.11A13.17,13.17,0,0,1,443.1,49C435.55,49,429.73,43.56,429.73,35.52ZM449,33.6c-.39-3.85-2.66-6.86-6.61-6.86-3.65,0-6.21,2.81-6.76,6.86Z"
+         id="path3819"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-2"
+         x="2.49"
+         y="2.49"
+         width="60.58"
+         height="60.58"
+         id="rect3821" />
+      <path
+         class="cls-3"
+         d="M63.07,2.49V63.07H2.49V2.49H63.07m0-2.49H2.49A2.49,2.49,0,0,0,0,2.49V63.07a2.49,2.49,0,0,0,2.49,2.49H63.07a2.49,2.49,0,0,0,2.49-2.49V2.49A2.49,2.49,0,0,0,63.07,0Z"
+         id="path3823" />
+      <polygon
+         class="cls-4"
+         points="60.84 16.35 56.4 26.27 25.38 26.27 29.82 16.35 60.84 16.35"
+         id="polygon3825" />
+      <polygon
+         class="cls-5"
+         points="20.67 36.7 10.47 24.93 5.67 35.57 15.71 47.72 46.72 47.72 51.68 36.7 20.67 36.7"
+         id="polygon3827" />
+    </g>
+  </g>
+</svg>

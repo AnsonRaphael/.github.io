@@ -1,0 +1,81 @@
+.landing{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.landing-enter{
+    text-align: center;
+    
+}
+.landing-text-center{
+    text-align: center;
+     padding-top: 13%; 
+    /* font-family: sans-serif; */
+    font-family: Poppins;
+   
+}
+.profile-margin{
+    margin: 5px;
+}
+.text-poppins{
+    font-family: Poppins;
+}
+.tech-icon-container{
+    margin-top: 2%;
+    
+}
+.tech-icon-box{
+    display: flex;
+}
+.tech-icon{
+    height: 20px;
+}
+.education{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.techStack{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.about{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.experiance{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.awards{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.publications{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.pub-icon{
+    height: 75px;
+    width: fit-content;
+    align-self: center;
+   
+}
+.contact-ul-list{
+    list-style-type:none;
+    display: flex;
+}
+.contact-list{
+    margin: 15px 15px 15px 0px;
+}
+.contact-icon{
+    height: 20px;
+}
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+  ion-icon {
+    font-size: 45px;
+  }
+.card-style{
+    margin: 10px;
+}
